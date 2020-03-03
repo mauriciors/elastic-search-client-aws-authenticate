@@ -1,9 +1,3 @@
-//add IAM in amazon aws and set user elastic search policies
-
-//SET environment variables
-//export AWS_ACCESS_KEY_ID=""
-//export AWS_SECRET_ACCESS_KEY=""
-
 var AWS = require('aws-sdk');
 
 var region = 'us-east-1'; 
