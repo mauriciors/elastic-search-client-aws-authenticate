@@ -4,7 +4,7 @@
   "description": "",
   "main": "test.js",
   "dependencies": {
-    "aws-sdk": "^2.631.0",
+    "aws-sdk": "^2.814.0",
     "elasticsearch": "^16.6.0",
     "http-aws-es": "^6.0.0"
   },
